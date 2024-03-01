@@ -1,0 +1,8 @@
+{
+  "test": {
+    "Name": "test",
+    "Destination": "C:",
+    "Source": "C:",
+    "Type": "A"
+  }
+}

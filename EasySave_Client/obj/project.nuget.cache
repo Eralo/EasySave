@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KeAGR+XOSe+9C6/KY6vQdpp2uboM6GzubMdBkYTqFZljREayNYobgCT77gfiT/XZG0nFtgtGlMtoGzKozgLrQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\damie\\Source\\Repos\\ProjDevSysteme\\EasySave_Client\\EasySave_Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\damie\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\damie\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\damie\\.nuget\\packages\\system.text.json\\8.0.2\\system.text.json.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
